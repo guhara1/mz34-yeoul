@@ -19,8 +19,8 @@ Allow: /
 User-agent: *
 Disallow: /
 
-Sitemap: https://yeoulmassage.pages.dev/sitemap.xml
-Sitemap: https://yeoulmassage.pages.dev/sitemap-hub.xml
-Sitemap: https://yeoulmassage.pages.dev/sitemap-area.xml
-Sitemap: https://yeoulmassage.pages.dev/sitemap-topic.xml
-Sitemap: https://yeoulmassage.pages.dev/rss.xml
+Sitemap: https://yeoul-massage.pages.dev/sitemap.xml
+Sitemap: https://yeoul-massage.pages.dev/sitemap-hub.xml
+Sitemap: https://yeoul-massage.pages.dev/sitemap-area.xml
+Sitemap: https://yeoul-massage.pages.dev/sitemap-topic.xml
+Sitemap: https://yeoul-massage.pages.dev/rss.xml
